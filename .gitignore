@@ -103,3 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 database1.sqlite
+database.sqlite
