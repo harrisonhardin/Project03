@@ -12,7 +12,7 @@
 
 [Final Jupyter Notebook](Mod3_Final.ipynb)
 
-[Final Slideshow Presentation](Mod3 ProjectSlides.pdf)
+[Final Slideshow Presentation](Mod3_ProjectSlides.pdf)
 
 Database source:
 
