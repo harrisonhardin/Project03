@@ -1,4 +1,4 @@
-# Project03
+# Project03 - See below for links to relevant content. Scratch work also included in repository.
 ## In this project four main questions were examined through the lens of statistics. We used a European Soccer Dataset (see below) to construct four alternative hypotheses to test. 
 
 ### Our questions were:
@@ -10,9 +10,13 @@
 
 -Is there a significant difference between the underlying distribution of goalkeeper skills?
 
+[Final Jupyter Notebook](Mod3_Final.ipynb)
+
+[Final Slideshow Presentation](Mod3 ProjectSlides.pdf)
 
 Database source:
 
 https://www.kaggle.com/hugomathien/soccer/downloads/soccer.zip/10
 
-[Header Information for Assessment, Jupyter Notebook](00FinalProjectSubmission.ipynb)
+
+
